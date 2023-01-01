@@ -9,6 +9,8 @@
 
 This repository contains a curated list of awesome resources on year-in-review and tech predictions for 2022, 2023 and beyond 🚀 
 
+This list is a work in progress and would love your support adding more resources, please add any further suggestions as [an issue](https://github.com/EthicalML/awesome-annual-reviews-and-trends/issues/new) or read the [CONTRIBUTING.md](./CONTRIBUTING.md) to add as a PR!
+
 ## Quick links to sections in this page
 
 | [🐰 2022-2023](#-2022-2023) | | | | |
