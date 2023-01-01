@@ -112,5 +112,8 @@ This list includes posts from renowned tech companies providing insights on tech
 
 ## Predictions
 
+* Dr. Werner Vogels, VP and CTO at Amazon - [5 tech predictions for 2023 and beyond, according to Amazon CTO Dr. Werner Vogels](https://www.aboutamazon.com/news/aws/werner-vogels-tech-predictions-2023)
+
+This section is still a work in progress, help us find further predictions from renwoned organisations and thought leaders for 2022-2023!
 
 
