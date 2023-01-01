@@ -17,7 +17,7 @@ This list is a work in progress and would love your support adding more resource
 |-|-|-|-|-|
 |[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [🎅 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
 |[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [🎅 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
-|[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai--data) | [🎅 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
+|[💡 Tech Leaders & Non-Profits](#-thought-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlanp-ai--data) | [🎅 General Tech](#-tlanp-general-tech) | [📜 GameDev](#-tlanp-gamedev)| [🔏 Security](#-tlanp-security) |
 
 
 ## Want to receive recurrent updates on this repo and other advancements?
