@@ -95,6 +95,7 @@ This list includes posts from renowned tech companies providing insights on tech
 * Google - [Google's 2022 Year in Review](https://blog.google/inside-google/2022-at-google/?utm_source=dlvr.it&utm_medium=twitter)
 * Quantamagazine - [QuantaMagazine 2022 in Review](https://www.quantamagazine.org/tag/2022-in-review/)
 * Nokia Bell Labs - [2022: Metaverse Goes Mainstream](https://www.nokia.com/thought-leadership/real-insights/2022-metaverse-goes-mainstream/?utm_source=hootsuite&utm_medium=twitter&utm_campaign=nok-ye-22-1)
+* StackOverflow - [2022 Developer Survey](https://survey.stackoverflow.co/2022/)
 
 #### Tech Companies: Security
 
