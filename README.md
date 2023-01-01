@@ -90,10 +90,6 @@ This list includes posts from renowned tech companies providing insights on tech
 
 * Linux Foundation - [OpenSSF Year in Review](https://openssf.org/blog/2022/12/29/openssf-year-in-review/)
 
-#### 💸 Business & Geopolitics
-
-* McKinsey - [McKinsey Publishing Year in review](https://www.mckinsey.com/featured-insights/2022-year-in-review)
-
 ### 💡 Thought Leaders and Non-Profits (TLaNP)
 
 #### 🤖 TLaNP: AI & Data
