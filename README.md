@@ -104,7 +104,6 @@ This list includes posts from renowned tech companies providing insights on tech
 * Louis Bouchard - [2022: A Year Full of Amazing AI papers- A Review 🚀](https://github.com/louisfb01/best_AI_papers_2022)
 * The Batch - [Top AI Stories of 2022](https://www.deeplearning.ai/the-batch/issue-176/?utm_campaign=The%20Batch&utm_content=232656287&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
 * State of AI - [State of AI Report](https://www.stateof.ai/)
-* TowardsAI - [2022: A Year Full of Amazing AI papers ](https://towardsai.net/p/l/2022-a-year-full-of-amazing-ai-papers%e2%80%8a-%e2%80%8aa-review)
 
 #### 🎅 TLaNP: General Programming
 
