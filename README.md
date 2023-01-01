@@ -11,16 +11,22 @@ This repository contains a curated list of awesome resources on year-in-
 
 ## Quick links to sections in this page
 
-| | | | |
-|-|-|-|-|
 | [🐰 2022-2023](#-2022-2023) |
-|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai-data) | [📜 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
-|[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai-data) | [📜 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
-|[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai-data) | [📜 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
-| 🐯 2021-2022 | | |
-| 🐂 2021-2023 | | |
-| 🐀 2021-2023 | | |
- 
+|-|-|-|-|
+|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [📜 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
+|[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [📜 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
+|[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai--data) | [📜 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
+
+| 🐯 2021-2022 | | | |
+|-|-|-|-|
+
+| 🐂 2021-2023 | | | |
+|-|-|-|-|
+
+| 🐀 2021-2023 | | | |
+|-|-|-|-|
+
+
 ## Want to receive recurrent updates on this repo and other advancements? 
  
 <table> 
