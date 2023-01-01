@@ -13,9 +13,9 @@ This repository contains a curated list of awesome resources on year-in-
 
 | [🐰 2022-2023](#-2022-2023) | | | | |
 |-|-|-|-|-|
-|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [📜 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
-|[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [📜 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
-|[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai--data) | [📜 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
+|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [🎅 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
+|[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [🎅 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
+|[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai--data) | [🎅 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
 
 | 🐯 2021-2022 | | | |
 |-|-|-|-|
@@ -65,9 +65,9 @@ The first in the list are year-in-review lists from Open Source Projects, as we 
 
 * Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
 
-#### 📜 OSS Projects: General Tech
+#### 🎅 OSS Projects: General Tech
 
-* Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
+TODO...
 
 #### 🔒 OSS Projects: Security
 
@@ -83,7 +83,7 @@ This list includes posts from renowned tech companies providing insights on tech
 * McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
 * Monzo - [Machine Learning at Monzo in 2022](https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022)
 
-#### Tech Companies: General Tech
+#### 🎅 Tech Companies: General Tech
 
 * Caltech - [2022 Year in Review](https://www.caltech.edu/about/news/2022-year-in-review?utm_medium=socialmedia&utm_source=twitter#harnessing-the-power-of-data-to-advance-science)
 * Github - [The state of open source software](https://octoverse.github.com/)
@@ -93,17 +93,17 @@ This list includes posts from renowned tech companies providing insights on tech
 * Nokia Bell Labs - [2022: Metaverse Goes Mainstream](https://www.nokia.com/thought-leadership/real-insights/2022-metaverse-goes-mainstream/?utm_source=hootsuite&utm_medium=twitter&utm_campaign=nok-ye-22-1)
 * StackOverflow - [2022 Developer Survey](https://survey.stackoverflow.co/2022/)
 
-#### Tech Companies: Security
+#### 🔒 Tech Companies: Security
 
 * Linux Foundation - [OpenSSF Year in Review](https://openssf.org/blog/2022/12/29/openssf-year-in-review/)
 
-#### Business & Geopolitics
+#### 💸 Business & Geopolitics
 
 * McKinsey - [McKinsey Publishing Year in review](https://www.mckinsey.com/featured-insights/2022-year-in-review)
 
-### Thought Leaders and Non-Profits (TLaNP)
+### 💡 Thought Leaders and Non-Profits (TLaNP)
 
-#### TLaNP: AI & Data
+#### 🤖 TLaNP: AI & Data
 
 * Algorithm Watch - [The year automated systems might have been regulated: 2022 in review](https://algorithmwatch.org/en/2022-in-review/)
 * Elvis Saravia - [2022: A Year in Review (ML Papers Edition)](https://www.linkedin.com/feed/update/urn:li:activity:7012856741537140736/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012856741537140736%29)
@@ -113,7 +113,7 @@ This list includes posts from renowned tech companies providing insights on tech
 * State of AI - [State of AI Report](https://www.stateof.ai/)
 * TowardsAI - [2022: A Year Full of Amazing AI papers ](https://towardsai.net/p/l/2022-a-year-full-of-amazing-ai-papers%e2%80%8a-%e2%80%8aa-review)
 
-#### TLaNP: General Programming
+#### 🎅 TLaNP: General Programming
 
 * Chip Huyen - [Books that made me think (as an engineer)](https://www.linkedin.com/posts/chiphuyen_engineering-books-technology-activity-7013631086350016512-YuO1?utm_source=share&utm_medium=member_desktop)
 * Eugene Yan - [2022 in Review & 2023 Goals](https://eugeneyan.com/writing/2022-in-review/)
