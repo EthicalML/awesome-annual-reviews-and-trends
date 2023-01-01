@@ -55,5 +55,50 @@
      </td> 
    </tr> 
  </table> 
-  
+
+
+# 2021-2022
+
+**TODO...**
  
+# 2022-2023
+
+## Year-in-Review
+
+## Companies
+
+### AI
+
+* Google - [Speech AI Year in Review](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-ai-in-2022)
+* McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
+* Monzo - [Machine Learning at Monzo in 2022](https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022)
+
+### General Tech
+
+* Github - [The state of open source software](https://octoverse.github.com/)
+* Github - [GitHub Community: Cheers to an amazing 2022 🥂](https://github.com/community/community/discussions/42328)
+* Google - [Google's 2022 Year in Review](https://blog.google/inside-google/2022-at-google/?utm_source=dlvr.it&utm_medium=twitter)
+* Quantamagazine - [QuantaMagazine 2022 in Review](https://www.quantamagazine.org/tag/2022-in-review/)
+
+### Security
+
+* Linux Foundation - [OpenSSF Year in Review](https://openssf.org/blog/2022/12/29/openssf-year-in-review/)
+
+### Business & Geopolitics
+
+* McKinsey - [McKinsey Publishing Year in review](https://www.mckinsey.com/featured-insights/2022-year-in-review)
+
+## Thought Leaders
+
+### AI
+
+* TowardsAI - [2022: A Year Full of Amazing AI papers ](https://towardsai.net/p/l/2022-a-year-full-of-amazing-ai-papers%e2%80%8a-%e2%80%8aa-review)
+
+### Tech Book Reviews
+
+* [Chip Huyen](https://www.linkedin.com/posts/chiphuyen_engineering-books-technology-activity-7013631086350016512-YuO1?utm_source=share&utm_medium=member_desktop)
+
+## Predictions
+
+* Splunk - 
+
