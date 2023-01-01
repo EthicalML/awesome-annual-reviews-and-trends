@@ -17,15 +17,6 @@ This repository contains a curated list of awesome resources on year-in-
 |[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [🎅 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
 |[💡 Tech Leaders & Non-Profits](#-tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlnap-ai--data) | [🎅 General Tech](#-tlnap-general-tech) | [📜 GameDev](#-tlnap-gamedev)| [🔏 Security](#-tlnap-security) |
 
-| 🐯 2021-2022 | | | |
-|-|-|-|-|
-
-| 🐂 2021-2023 | | | |
-|-|-|-|-|
-
-| 🐀 2021-2023 | | | |
-|-|-|-|-|
-
 
 ## Want to receive recurrent updates on this repo and other advancements?
 
@@ -68,7 +59,6 @@ The first in the list are year-in-review lists from Open Source Projects, as we 
 
 #### 🎅 OSS Projects: General Tech
 
-TODO...
 
 #### 🔒 OSS Projects: Security
 
@@ -122,8 +112,5 @@ This list includes posts from renowned tech companies providing insights on tech
 
 ## Predictions
 
-**TODO...**
 
-# 2021-2022
 
-**TODO...**
