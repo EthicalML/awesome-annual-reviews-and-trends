@@ -14,7 +14,9 @@ This repository contains a curated list of awesome resources on year-in-
 | | | | |
 |-|-|-|-|
 | [2022-2023 🐰](#2022-2023) | | | |
-|[🔍 OSS Projects](#oss-projects) |[🔏 AI & Data](#oss-projects-ai-data) | [📜 GameDev](#oss-projects-gamedev)| [📜 Security](#oss-projects-security) |
+|[🔍 OSS Projects](#oss-projects) |[🤖 AI & Data](#oss-projects-ai-data) | [📜 General Tech](#oss-projects-general-tech)| [📜 GameDev](#oss-projects-gamedev)| [🔏 Security](#oss-projects-security) |
+|[🏢 Tech Companies](#tech-companies) |[🤖 AI & Data](#tech-companies-ai-data) | [📜 General Tech](#tech-companies-general-tech) | [📜 GameDev](#tech-companies-gamedev)| [🔏 Security](#tech-companies-security) |
+|[💡 Tech Leaders & Non-Profits](#tech-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#tlnap-ai-data) | [📜 General Tech](#tlnap-general-tech) | [📜 GameDev](#tlnap-gamedev)| [🔏 Security](#tlnap-security) |
 | 2021-2022 🐯 | | |
 | 2021-2023 🐂 | | |
 | 2021-2023 🐀 | | |
@@ -22,8 +24,8 @@ This repository contains a curated list of awesome resources on year-in-
 ## Want to receive recurrent updates on this repo and other advancements? 
  
 <table> 
-  <tr> 
-    <td width="30%"> 
+  <tr> 
+    <td width="30%"> 
          You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 20,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning. 
     </td> 
     <td width="70%"> 
@@ -41,31 +43,35 @@ This repository contains a curated list of awesome resources on year-in-
 </table> 
 
 
-# 2022-2023
+# 🐰 2022-2023
 
 ## Year-in-Review
 
-### OSS Projects
+### 🔍 OSS Projects
 
 The first in the list are year-in-review lists from Open Source Projects, as we hope to promote the great efforts and content that these projects provide. The ordering and selection for this list can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md) page - if there's any missing please add a [pull request](https://github.com/EthicalML/awesome-annual-reviews-and-trends/compare)!
 
-#### OSS Projects: AI & Data
+#### 🤖 OSS Projects: AI & Data
 
 * Airflow - [The Airflow Year in Review 2022](https://www.astronomer.io/blog/the-airflow-year-in-review-2022/)
 
-#### OSS Projects: GameDev
+#### 📜 OSS Projects: GameDev
 
 * Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
 
-#### OSS Projects: Security
+#### 📜 OSS Projects: General Tech
+
+* Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
+
+#### 🔒 OSS Projects: Security
 
 * Kubernetes - [2022 Kubernetes Vulnerabilities – Main Takeaways](https://www.armosec.io/blog/kubernetes-vulnerabilities-2022/)
 
-### Tech Companies
+### 🏢 Tech Companies
 
 This list includes posts from renowned tech companies providing insights on technology fields, industry as a whole or specialised research fields (not products / promotions - as outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
-#### Tech Companies: AI & Data
+#### 🤖 Tech Companies: AI & Data
 
 * Google - [Speech AI Year in Review](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-ai-in-2022)
 * McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
