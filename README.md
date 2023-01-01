@@ -66,8 +66,7 @@
 ## Year-in-Review
 
 ## Companies
-
-### AI
+I
 
 * Google - [Speech AI Year in Review](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-ai-in-2022)
 * McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
@@ -75,10 +74,12 @@
 
 ### General Tech
 
+* Caltech - [2022 Year in Review](https://www.caltech.edu/about/news/2022-year-in-review?utm_medium=socialmedia&utm_source=twitter#harnessing-the-power-of-data-to-advance-science)
 * Github - [The state of open source software](https://octoverse.github.com/)
 * Github - [GitHub Community: Cheers to an amazing 2022 🥂](https://github.com/community/community/discussions/42328)
 * Google - [Google's 2022 Year in Review](https://blog.google/inside-google/2022-at-google/?utm_source=dlvr.it&utm_medium=twitter)
 * Quantamagazine - [QuantaMagazine 2022 in Review](https://www.quantamagazine.org/tag/2022-in-review/)
+* Nokia Bell Labs - [2022: Metaverse Goes Mainstream](https://www.nokia.com/thought-leadership/real-insights/2022-metaverse-goes-mainstream/?utm_source=hootsuite&utm_medium=twitter&utm_campaign=nok-ye-22-1)
 
 ### Security
 
@@ -88,15 +89,24 @@
 
 * McKinsey - [McKinsey Publishing Year in review](https://www.mckinsey.com/featured-insights/2022-year-in-review)
 
-## Thought Leaders
+## Thought Leaders and Think Tanks
 
 ### AI
 
+* Algorithm Watch - [The year automated systems might have been regulated: 2022 in review](https://algorithmwatch.org/en/2022-in-review/)
+* Gradient Flow - [Top Pics](https://gradientflow.substack.com/p/2023-book-of-the-year)
+* Louis Bouchard - [2022: A Year Full of Amazing AI papers- A Review 🚀](https://github.com/louisfb01/best_AI_papers_2022)
+* The Batch - [Top AI Stories of 2022](https://www.deeplearning.ai/the-batch/issue-176/?utm_campaign=The%20Batch&utm_content=232656287&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
+* State of AI - [State of AI Report](https://www.stateof.ai/)
 * TowardsAI - [2022: A Year Full of Amazing AI papers ](https://towardsai.net/p/l/2022-a-year-full-of-amazing-ai-papers%e2%80%8a-%e2%80%8aa-review)
 
-### Tech Book Reviews
+### LinkedIn Posts worth Sharing
 
+### AI 
+
+* [Elvis Saravia](https://www.linkedin.com/feed/update/urn:li:activity:7012856741537140736/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012856741537140736%29)
 * [Chip Huyen](https://www.linkedin.com/posts/chiphuyen_engineering-books-technology-activity-7013631086350016512-YuO1?utm_source=share&utm_medium=member_desktop)
+* [Sebastian Raschka](https://www.linkedin.com/posts/sebastianraschka_machinelearning-datascientists-ml-activity-7009892521208135680-1PaW/?utm_source=share&utm_medium=member_desktop)
 
 ## Predictions
 
