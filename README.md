@@ -29,8 +29,9 @@ This repository contains a curated list of awesome resources on year-in-
 
 ## Want to receive recurrent updates on this repo and other advancements?
 
-<table> 
-  <tr> 
+
+<table>
+  <tr>
     <td width="30%"> 
      You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 20,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning.
      </td>
@@ -38,15 +39,15 @@ This repository contains a curated list of awesome resources on year-in-
      <a href="https://ethical.institute/mle.html"><img src="https://github.com/EthicalML/awesome-production-machine-learning/blob/master/images/mleng.png"></a>
      </td>
      </tr>
-     <tr> 
+     <tr>
      <td width="30%">
      Also check out the <a href="https://github.com/EthicalML/awesome-production-machine-learning/">Awesome Production Machine Learning</a>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
      </td>
      <td width="70%">
      <a href="https://github.com/EthicalML/awesome-production-machine-learning/"><img src="https://github.com/EthicalML/awesome-production-machine-learning/blob/master/images/guidelines.jpg"></a>
      </td>
-     </tr> 
-</table> 
+     </tr>
+</table>
 
 
 # 🐰 2022-2023
