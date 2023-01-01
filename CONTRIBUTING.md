@@ -8,6 +8,7 @@ The key things to bare in mind when contributing a new list are the following:
 
 * This is not an exhaustive listing
 * The articles must be technical as opposed to business / high level
+* The selection process has preference towards open source
 * Resources must be from renowned organisations or renowned individuals
 * Promotional and advertisement articles are not relevant
 * Sparse blog posts with predictions or year in reviews are not relevant
