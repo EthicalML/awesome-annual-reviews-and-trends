@@ -34,7 +34,7 @@ This list is a work in progress and would love your support adding more resource
      </tr>
      <tr>
      <td width="30%">
-     Also check out the <a href="https://github.com/EthicalML/awesome-production-machine-learning/">Awesome Production Machine Learning</a>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+     Also check out the <a href="https://github.com/EthicalML/awesome-production-machine-learning/">Awesome Production Machine Learning</a>. A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
      </td>
      <td width="70%">
      <a href="https://github.com/EthicalML/awesome-production-machine-learning/"><img src="https://github.com/EthicalML/awesome-production-machine-learning/blob/master/images/guidelines.jpg"></a>
@@ -68,7 +68,7 @@ The first in the list are year-in-review lists from Open Source Projects, as we 
 
 ### 🏢 Tech Companies
 
-This list includes posts from renowned tech companies providing insights on technology fields, industry as a whole or specialised research fields (not products / promotions - as outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md)).
+This section includes posts from renowned tech companies providing insights on technology fields, industry as a whole or specialised research fields (not products / promotions - as outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
 #### 🤖 Tech Companies: AI & Data
 
@@ -91,6 +91,8 @@ This list includes posts from renowned tech companies providing insights on tech
 * Linux Foundation - [OpenSSF Year in Review](https://openssf.org/blog/2022/12/29/openssf-year-in-review/)
 
 ### 💡 Thought Leaders and Non-Profits (TLaNP)
+
+This section includes posts from renowned thought leaders and non-profits providing insights on technology fields, industry as a whole or specialised research fields (not products / promotions - as outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
 #### 🤖 TLaNP: AI & Data
 
