@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 0.0.1
+title: Awesome Annual Reviews and Trends
+message: 'If you use this list in your publication, please cite it as follows.'
+type: dataset
+authors:
+  - given-names: Alejandro
+    family-names: Saucedo
+repository-code: >-
+  https://github.com/EthicalML/awesome-production-machine-learning
+abstract: >-
+  This repository contains a curated list of awesome resources on year-in-review and tech predictions for 2022, 2023 and beyond 🚀 
+license: MIT
