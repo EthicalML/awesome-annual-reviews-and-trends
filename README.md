@@ -15,8 +15,8 @@ This list is a work in progress and would love your support adding more resource
 
 | [🐰 2022-2023](#-2022-2023) | | | | |
 |-|-|-|-|-|
-|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [🎅 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
 |[🏢 Tech Companies](#-tech-companies) |[🤖 AI & Data](#-tech-companies-ai--data) | [🎅 General Tech](#-tech-companies-general-tech) | [📜 GameDev](#-tech-companies-gamedev)| [🔏 Security](#-tech-companies-security) |
+|[🔍 OSS Projects](#-oss-projects) |[🤖 AI & Data](#-oss-projects-ai--data) | [🎅 General Tech](#-oss-projects-general-tech)| [📜 GameDev](#-oss-projects-gamedev)| [🔏 Security](#-oss-projects-security) |
 |[💡 Tech Leaders & Non-Profits](#-thought-leaders-and-non-profits-tlanp) |[🤖 AI & Data](#-tlanp-ai--data) | [🎅 General Tech](#-tlanp-general-tech) | [📜 GameDev](#-tlanp-gamedev)| [🔏 Security](#-tlanp-security) |
 
 
@@ -47,25 +47,6 @@ This list is a work in progress and would love your support adding more resource
 
 ## Year-in-Review
 
-### 🔍 OSS Projects
-
-The first in the list are year-in-review lists from Open Source Projects, as we hope to promote the great efforts and content that these projects provide. The ordering and selection for this list can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md) page - if there's any missing please add a [pull request](https://github.com/EthicalML/awesome-annual-reviews-and-trends/compare)!
-
-#### 🤖 OSS Projects: AI & Data
-
-* Airflow - [The Airflow Year in Review 2022](https://www.astronomer.io/blog/the-airflow-year-in-review-2022/)
-
-#### 📜 OSS Projects: GameDev
-
-* Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
-
-#### 🎅 OSS Projects: General Tech
-
-
-#### 🔒 OSS Projects: Security
-
-* Kubernetes - [2022 Kubernetes Vulnerabilities – Main Takeaways](https://www.armosec.io/blog/kubernetes-vulnerabilities-2022/)
-
 ### 🏢 Tech Companies
 
 This section includes posts from renowned tech companies providing insights on technology fields, industry as a whole or specialised research fields (not products / promotions - as outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md)).
@@ -89,6 +70,25 @@ This section includes posts from renowned tech companies providing insights on t
 #### 🔒 Tech Companies: Security
 
 * Linux Foundation - [OpenSSF Year in Review](https://openssf.org/blog/2022/12/29/openssf-year-in-review/)
+
+### 🔍 OSS Projects
+
+This section contains year-in-review lists from Open Source Projects, as we hope to promote the great efforts and content that these projects provide. The ordering and selection for this list can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md) page - if there's any missing please add a [pull request](https://github.com/EthicalML/awesome-annual-reviews-and-trends/compare)!
+
+#### 🤖 OSS Projects: AI & Data
+
+* Airflow - [The Airflow Year in Review 2022](https://www.astronomer.io/blog/the-airflow-year-in-review-2022/)
+
+#### 📜 OSS Projects: GameDev
+
+* Godot - [Godot 2022: A Retrospective](https://godotengine.org/article/2022-retrospective)
+
+#### 🎅 OSS Projects: General Tech
+
+
+#### 🔒 OSS Projects: Security
+
+* Kubernetes - [2022 Kubernetes Vulnerabilities – Main Takeaways](https://www.armosec.io/blog/kubernetes-vulnerabilities-2022/)
 
 ### 💡 Thought Leaders and Non-Profits (TLaNP)
 
