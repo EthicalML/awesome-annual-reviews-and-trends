@@ -7,7 +7,7 @@
 
 # Awesome Annual Tech Reviews & Predictions 
 
- This repository contains a curated list of awesome resources on year-in-review and tech predictions for 2022, 2023 and beyond 🚀 
+This repository contains a curated list of awesome resources on year-in-review and tech predictions for 2022, 2023 and beyond 🚀 
 
 ## Quick links to sections in this page 
 
@@ -22,36 +22,23 @@
 | [🌀 Feature Engineering](#feature-engineering) | [🎁 Feature Store](#feature-store) | [⚔ Adversarial Robustness](#adversarial-robustness) | 
 |[💾 Data Storage Optimization](#data-storage-optimisation) | [💰 Commercial Platform](#commercial-platform) | 
  
-## 10 Min Video Overview 
- 
-<table> 
-  <tr> 
-    <td width="30%"> 
-        This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo. This <a href="https://www.youtube.com/watch?v=xymbp8RWaCQ&t=1s">newer video</a> covers the an updated 2022 version of the state of MLOps  
-    </td> 
-    <td width="70%"> 
-        <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY"><img src="images/video.png"></a> 
-    </td> 
-  </tr> 
-</table> 
- 
 ## Want to receive recurrent updates on this repo and other advancements? 
  
 <table> 
   <tr> 
     <td width="30%"> 
-         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 10,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning. 
+         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 20,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning. 
     </td> 
     <td width="70%"> 
-        <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a> 
+        <a href="https://ethical.institute/mle.html"><img src="https://github.com/EthicalML/awesome-production-machine-learning/blob/master/images/mleng.png"></a> 
     </td> 
   </tr> 
   <tr> 
     <td width="30%"> 
-         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/">Awesome Artificial Intelligence Guidelines</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence. 
+         Also check out the <a href="https://github.com/EthicalML/awesome-production-machine-learning/">Awesome Production Machine Learning</a>A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
     </td> 
     <td width="70%"> 
-        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/guidelines.jpg"></a> 
+        <a href="https://github.com/EthicalML/awesome-production-machine-learning/"><img src="https://github.com/EthicalML/awesome-production-machine-learning/blob/master/images/guidelines.jpg"></a> 
     </td> 
   </tr> 
 </table> 
