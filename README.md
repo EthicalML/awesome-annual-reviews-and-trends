@@ -54,8 +54,8 @@ This section includes posts from renowned tech companies providing insights on t
 #### 🤖 Tech Companies: AI & Data
 
 * Google - [Speech AI Year in Review](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-speech-ai-in-2022)
-* McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
 * Monzo - [Machine Learning at Monzo in 2022](https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022)
+* QuantumBlack McKinsey - [The state of AI in 2022](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2022-and-a-half-decade-in-review)
 
 #### 🎅 Tech Companies: General Tech
 
