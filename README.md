@@ -100,6 +100,7 @@ This section includes posts from renowned thought leaders and non-profits provid
 * Chip Huyen - [MLOps Learners Discord: 2022 in review](https://www.linkedin.com/pulse/mlops-discord-2022-review-mlops-learners/?trackingId=2aSLUMquTbq3lhy3PMTwrA%3D%3D)
 * Elvis Saravia - [2022: A Year in Review (ML Papers Edition)](https://www.linkedin.com/feed/update/urn:li:activity:7012856741537140736/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7012856741537140736%29)
 * Gradient Flow - [Top Pics](https://gradientflow.substack.com/p/2023-book-of-the-year)
+* Jesper Dramsch - [Top ML Links in 2022](https://dramsch.net/articles/top-10-real-world-machine-learning-python-ai-links-2022/)
 * Louis Bouchard - [2022: A Year Full of Amazing AI papers- A Review 🚀](https://github.com/louisfb01/best_AI_papers_2022)
 * The Batch - [Top AI Stories of 2022](https://www.deeplearning.ai/the-batch/issue-176/?utm_campaign=The%20Batch&utm_content=232656287&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456)
 * State of AI - [State of AI Report](https://www.stateof.ai/)
